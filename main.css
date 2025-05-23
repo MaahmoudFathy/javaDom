@@ -3,7 +3,7 @@
      padding:0;
      box-sizing: border-box;
 }
-.car{
+.cardo{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
